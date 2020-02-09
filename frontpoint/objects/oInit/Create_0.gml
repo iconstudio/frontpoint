@@ -74,7 +74,7 @@ enum player {
 	cpu2,
 	cpu3,
 	cpu4,
-	netural
+	neutral
 }
 #endregion
 

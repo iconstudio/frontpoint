@@ -1,2 +1,12 @@
 /// @description 초기화
-owner = 0
+owner = player.neutral
+red_count = room_speed/3
+alarm[0] = red_count
+count = 1
+maxcount = 30
+att = true
+create_time = room_speed
+create_maxcounter = 10
+create_counter = 0
+target = id
+blend = c_baby_blue
